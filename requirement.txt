@@ -1,3 +1,2 @@
 autogen
 python-dotenv
-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
