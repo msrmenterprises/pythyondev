@@ -1,0 +1,4 @@
+# Ignore .env file inside the "config" folder
+
+groupChat/.env
+sqlBot/.env
