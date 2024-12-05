@@ -1,4 +1,2 @@
-# Ignore .env file inside the "config" folder
-
-groupChat/.env
-sqlBot/.env
+echo ".env" >> .gitignore
+git rm --cached .env
