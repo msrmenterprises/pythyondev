@@ -1,0 +1,21 @@
+***** App started *****
+INFO:     127.0.0.1:53008 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /manifest.webmanifest HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /images/svgs/welcome.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53010 - "GET /framework-cac843a6fec86b8bc39a.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53011 - "GET /webpack-runtime-92d6965288b580d92200.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53009 - "GET /app-462c9803f49c9688e776.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53009 - "GET /page-data/index/page-data.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /page-data/app-data.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /318ce576f236b79fd96f75904c13f6e55c3eee57-40536b969c9ad93bcc1c.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53009 - "GET /component---src-pages-index-tsx-63b85e072a7479d6d32f.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /favicon-32x32.png?v=46131b614287332146ea078703a67d38 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /api/sessions?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53009 - "GET /api/sessions?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53010 - "GET /api/version HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /page-data/build/page-data.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53008 - "GET /component---src-pages-build-tsx-8ce9018cf64e58c6b556.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53012 - "GET /api/workflows?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53013 - "GET /api/agents?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53014 - "GET /api/models?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53015 - "GET /api/skills?user_id=guestuser@gmail.com HTTP/1.1" 200 OK
